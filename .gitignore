@@ -1,0 +1,27 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+app.json
+babel.config.js
+package-lock.json
+package.json
+yarn.lock
+assets/adaptive-icon.png
+assets/favicon.png
+assets/icon.png
+assets/splash.png
+assets/images/chef-icon.png
+assets/images/doctor-icon.png
+assets/images/programming-icon.png
+assets/images/tutor-icon.png
