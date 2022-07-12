@@ -15,7 +15,6 @@ web-build/
 app.json
 babel.config.js
 package-lock.json
-package.json
 yarn.lock
 assets/adaptive-icon.png
 assets/favicon.png
